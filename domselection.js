@@ -27,15 +27,15 @@
 
 
 
-            // document.querySelector()
+            document.querySelector()
 
 
-// const nggop4 = document.querySelector('#b p');
-// nggop4.style.color = 'red';
+const nggop4 = document.querySelector('#b p');
+nggop4.style.color = 'red';
 
-// const li = document.querySelector('section#b ul li:nth-child(2)');
-// li.style.backgroundColor = 'orange';
-// li.style.color = 'white';
+const li = document.querySelector('section#b ul li:nth-child(2)');
+li.style.backgroundColor = 'orange';
+li.style.color = 'white';
 
 
 
